@@ -1,0 +1,16 @@
+{
+  "name": "Matugen",
+  "accent": "{{colors.primary.default.hex}}",
+  "accent_dark": "{{colors.primary_container.default.hex}}",
+  "accent_text": "{{colors.on_primary.default.hex}}",
+  "secondary": "{{colors.secondary.default.hex}}",
+  "subtle_text": "{{colors.on_secondary_container.default.hex}}",
+  "muted_text": "{{colors.outline.default.hex}}",
+  "dim_text": "{{colors.on_surface.default.hex}}",
+  "danger": "{{colors.error.default.hex}}",
+  "warning": "{{colors.tertiary.default.hex}}",
+  "tip": "{{colors.tertiary_container.default.hex}}",
+  "link": "{{colors.secondary.default.hex}}",
+  "directory": "{{colors.primary.default.hex}}",
+  "contrast": "{{colors.surface.default.hex}}"
+}

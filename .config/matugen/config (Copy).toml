@@ -1,0 +1,39 @@
+[config]
+
+[templates.zed]
+input_path = "~/.config/matugen/templates/zed.json"
+output_path = "~/.config/zed/themes/matugen-theme.json"
+
+[templates.vesktop]
+input_path = '~/.config/matugen/templates/midnight-discord.css'
+output_path = '~/.config/Vencord/themes/midnight.theme.css'
+
+[templates.millennium]
+input_path = '/home/oliwier/.config/matugen/templates/matugentemplate.css'
+output_path = '/home/oliwier/.steam/steam/steamui/skins/Material-Theme/css/main/colors/matugen.css'
+
+[templates.obsidian]
+input_path = '/home/oliwier/.config/matugen/templates/obsidian.css'
+output_path = '/home/oliwier/Documents/School Notes/.obsidian/themes/Nu Ayu/theme.css'
+
+[templates.homepage_css]
+input_path = '/home/oliwier/.config/matugen/templates/homepage_style.css'
+output_path = '/home/oliwier/Git/sukoon-fork/app.css'
+
+
+[templates.prismlauncher]
+input_path = '/home/oliwier/.config/matugen/templates/prism.json'
+output_path = '/home/oliwier/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/themes/Matugen/theme.json'
+
+[templates.matcha]
+input_path = '~/.config/matugen/templates/matcha.json'
+output_path = '~/.config/matcha/themes/matugen.json'
+
+[templates.mpv]
+input_path = "~/.config/matugen/templates/mpv.lua"
+output_path = "/home/oliwier/.config/mpv/scripts/modern-extended.lua"
+
+[templates.banana]
+input_path = "~/.config/matugen/templates/render.json"
+output_path = "~/Git/banana-cursor/render.json"
+post_hook = "~/Scripts/banana_matugen.fish"
