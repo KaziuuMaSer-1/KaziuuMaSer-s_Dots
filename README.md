@@ -9,6 +9,16 @@ dms greeter install
 ```
 (you may need to run `sudo systemctl enable greetd`
 `sudo systemctl start greetd`)
+## Fish setup
+1. Install terminal emulator (which one is up to you, for this setup im using kitty)
+
+2. Install fish with 
+```
+brew install fish
+```
+
+
+
 ## Custom matugen apps
 **List:**
 - [Zed](#Zed)
