@@ -15,6 +15,7 @@ curl -f https://zed.dev/install.sh | sh
 
 #### Vesktop
 Install Vesktop:
+
 https://vesktop.dev/install/linux/
 
 #### Millenium 
@@ -31,6 +32,7 @@ flatpak install obsidian
 
 #### Custom homepage (For floorp)
 1. Install floorp from tarball or ppa
+2. 
 https://floorp.app/download
 2. In `about:config` add `floorp.newtab.overrides.newtabur` and set it to string, in this line you specify path to a index.html (it's `/home/$HOME/.config/homepage/index.html`)
 
@@ -42,4 +44,4 @@ Install matcha
 brew tap floatpane/matcha                        
 brew install floatpane/matcha/matcha
 ```
-Open matcha and navigate to settings>Theme, select Matugen.
+Open matcha and navigate to Settings > Theme, select Matugen.
