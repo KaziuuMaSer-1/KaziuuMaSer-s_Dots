@@ -5,7 +5,7 @@
 - [Millenium (steam)](#Millenium)
 - [Obsidian](#Obsidian)
 - [Floorp](#Floorp)
-- [Custom web homepage](#Custom Web Homepage)
+- [Custom web homepage](#Custom web homepage)
 - [Prism Launcher](#Prism Launcher)
 - [Matcha (tui-email)](#Matcha)
 #### Zed
