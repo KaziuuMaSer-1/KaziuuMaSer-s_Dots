@@ -30,7 +30,7 @@ Install obsidian
 ```
 flatpak install obsidian
 ```
-#### Floorp (with [pywalfox(https://github.com/Frewacom/pywalfox)])
+#### Floorp (with [pywalfox](https://github.com/Frewacom/pywalfox))
 
 #### Custom homepage (For floorp)
 1. Install floorp from tarball or ppa:
