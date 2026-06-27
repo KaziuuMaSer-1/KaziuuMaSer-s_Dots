@@ -24,3 +24,21 @@ curl -fsSL "https://steambrew.app/install.sh" | bash
 ```
 
 #### Obsidian
+Install obsidian
+```
+flatpak install obsidian
+```
+
+#### Custom homepage (For floorp)
+1. Install floorp from tarball or ppa
+https://floorp.app/download
+2. In `about:config` add `floorp.newtab.overrides.newtabur` and set it to string, in this line you specify path to a index.html (it's `/home/$HOME/.config/homepage/index.html`)
+
+#### Prism Launcher
+Install prism launcher via packet manager of your choice (recommend from flatpak)
+#### Matcha
+Install matcha
+```
+brew tap floatpane/matcha                        
+brew install floatpane/matcha/matcha
+```
