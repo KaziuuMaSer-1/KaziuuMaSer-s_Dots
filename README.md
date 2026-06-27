@@ -1,5 +1,5 @@
 # Ts is Kaziumasos dotfiles
-This is my dailydirver dots based on DankMaterialShell.
+This is my dailydirver dots based on DankMaterialShell with instalation steps, pack of wallpapers and custom matugen configs.
 ## Dank Material Shell
 1. Install dms with 
 ```
@@ -21,7 +21,7 @@ brew install fish
 
 
 
-## Custom matugen apps
+## Custom matugen configs
 **List:**
 - [Zed](#Zed)
 - [Vesktop](#Vesktop)
