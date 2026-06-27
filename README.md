@@ -42,3 +42,4 @@ Install matcha
 brew tap floatpane/matcha                        
 brew install floatpane/matcha/matcha
 ```
+Open matcha and navigate to settings>Theme, select Matugen.
