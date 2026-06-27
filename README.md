@@ -4,6 +4,7 @@
 - [Vesktop](#Vesktop)
 - [Millenium (steam)](#Millenium)
 - [Obsidian](#Obsidian)
+- [Floorp](#Floorp)
 - [Custom web homepage](#Custom Web Homepage)
 - [Prism Launcher](#Prism Launcher)
 - [Matcha (tui-email)](#Matcha)
@@ -29,10 +30,10 @@ Install obsidian
 ```
 flatpak install obsidian
 ```
+#### Floorp (with [pywalfox(https://github.com/Frewacom/pywalfox)])
 
 #### Custom homepage (For floorp)
-1. Install floorp from tarball or ppa
-2. 
+1. Install floorp from tarball or ppa:
 https://floorp.app/download
 2. In `about:config` add `floorp.newtab.overrides.newtabur` and set it to string, in this line you specify path to a index.html (it's `/home/$HOME/.config/homepage/index.html`)
 
