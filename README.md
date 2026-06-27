@@ -1,3 +1,14 @@
+## Dank Material Shell
+1. Install dms with 
+```
+curl -fsSL https://install.danklinux.com | sh
+```
+2. Install DankGreeter 
+```
+dms greeter install
+```
+(you may need to run `sudo systemctl enable greetd`
+`sudo systemctl start greetd`)
 ## Custom matugen apps
 **List:**
 - [Zed](#Zed)
@@ -40,7 +51,7 @@ https://floorp.app/download
 In `about:config` add `floorp.newtab.overrides.newtabur` and set it to string, in this line you specify path to a index.html (it's `/home/$HOME/.config/homepage/index.html`)
 
 #### Prism Launcher
-Install prism launcher via packet manager of your choice (recommend from flatpak)
+Install prism launcher via package manager of your choice (recommended from flatpak)
 
 #### Matcha
 Install matcha

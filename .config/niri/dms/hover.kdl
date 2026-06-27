@@ -1,0 +1,5 @@
+﻿// Custom config
+
+input {
+    focus-follows-mouse max-scroll-amount="10%"
+}

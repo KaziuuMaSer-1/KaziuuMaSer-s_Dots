@@ -1,0 +1,32 @@
+{
+  "dankKDEConnect": {
+    "enabled": true,
+    "selectedDeviceId": "449174c6c7914432a8144d9e620fb4df"
+  },
+  "dankBatteryAlerts": {
+    "enabled": true,
+    "criticalThreshold": 15
+  },
+  "dankObsidian": {
+    "enabled": true,
+    "noTrigger": true,
+    "trigger": ""
+  },
+  "ddcBrightness": {
+    "enabled": true
+  },
+  "volumeMixer": {
+    "enabled": true,
+    "pillIcon": "mixer"
+  },
+  "wallpaperDiscovery": {
+    "enabled": true,
+    "api_wallhavencc": "vtyq6UUFgIn2hstSiJFGJnh2zByCslVu"
+  },
+  "usbManager": {
+    "enabled": true
+  },
+  "activateLinux": {
+    "enabled": true
+  }
+}

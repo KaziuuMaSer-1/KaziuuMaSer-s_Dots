@@ -1,0 +1,124 @@
+// DMS Window Rules - Managed by DankMaterialShell
+// Do not edit manually - changes may be overwritten
+
+// @id=wr_1779533552312905199 @name=org.kde.ark
+window-rule {
+    match app-id="^org.kde.ark$"
+    open-floating true
+}
+
+// @id=wr_1779533574383776890 @name=org.kde.ark
+window-rule {
+    match app-id="^org.kde.ark$" title="^Loading archive  — Ark$"
+    open-floating true
+}
+
+// @id=wr_1779545306861648921 @name=nl.emphisia.icon
+window-rule {
+    match app-id="^nl.emphisia.icon$"
+    open-floating true
+}
+
+// @id=wr_1779546098750540051 @name=org.kde.ark
+window-rule {
+    match app-id="^org.kde.ark$"
+    open-floating true
+}
+
+// @id=wr_1779546230420015399 @name=org.kde.ark
+window-rule {
+    match app-id="^org.kde.ark$"
+    default-column-width { fixed 400; }
+    default-window-height { fixed 300; }
+}
+
+// @id=wr_1779550675018243740 @name=org.kde.ark
+window-rule {
+    match app-id="^org.kde.ark$"
+    default-column-width { fixed 700; }
+    default-window-height { fixed 450; }
+}
+
+// @id=wr_1779736769319893799 @name=gimp
+window-rule {
+    match app-id="^gimp$"
+    open-maximized true
+}
+
+// @id=wr_1779737175914914182 @name=org.kde.kdeconnect.handler
+window-rule {
+    match app-id="^org.kde.kdeconnect.handler$"
+    open-floating true
+}
+
+// @id=wr_1779744446913850428 @name=LRCGET
+window-rule {
+    match app-id="^LRCGET$"
+    open-floating true
+}
+
+// @id=wr_1779912666111150058 @name=obsidian
+window-rule {
+    match app-id="^obsidian$"
+    open-maximized true
+}
+
+// @id=wr_1780149355411452874 @name=pano-scrobbler
+window-rule {
+    match app-id="^pano-scrobbler$"
+    open-floating true
+}
+
+// @id=wr_1780345169476352430 @name=org.kde.drawy
+window-rule {
+    match app-id="^org.kde.drawy$"
+    open-floating true
+}
+
+// @id=wr_1780662132094673504 @name=faugus-launcher
+window-rule {
+    match app-id="^faugus-launcher$"
+    open-floating true
+}
+
+// @id=wr_1780666594840243381 @name=love
+window-rule {
+    match app-id="^love$"
+    open-floating true
+}
+
+// @id=wr_1781190390723044004 @name=org.kde.kdeconnect.daemon
+window-rule {
+    match app-id="^org.kde.kdeconnect.daemon$"
+    open-floating true
+}
+
+// @id=wr_1781631283459681381 @name=faugus-launcher
+window-rule {
+    match app-id="^faugus-launcher$"
+    open-floating true
+}
+
+// @id=wr_1781692907779149760 @name=org.kde.kdenlive
+window-rule {
+    match app-id="^org.kde.kdenlive$"
+    open-maximized true
+}
+
+// @id=wr_1781767658172070356 @name=steam
+window-rule {
+    match app-id="^steam$"
+    open-maximized true
+}
+
+// @id=wr_1782148687487733544 @name=scrcpy
+window-rule {
+    match app-id="^scrcpy$"
+    open-floating true
+}
+
+// @id=wr_1782422818438609850 @name=org.telegram.desktop
+window-rule {
+    match app-id="^org.telegram.desktop$"
+    default-column-width { fixed 500; }
+}
