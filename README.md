@@ -35,7 +35,7 @@ flatpak install obsidian
 https://floorp.app/download
 2. Install [pywalfox](pywalfoxttps://github.com/Frewacom/pywalfox)
 3. Run pywalfox install with custom profile-path `pywalfox install --profile-path /home/oliwier/.floorp/<profile>` (there is a possibility that you need to use `pywalfox install --manifest-path ~/.floorp/native-messaging-hosts`)
-#### Custom homepage (For floorp)
+#### Custom web homepage (For floorp)
 
 In `about:config` add `floorp.newtab.overrides.newtabur` and set it to string, in this line you specify path to a index.html (it's `/home/$HOME/.config/homepage/index.html`)
 
