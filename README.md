@@ -84,9 +84,15 @@ Open matcha and navigate to Settings > Theme, select Matugen.
      </sub>
      Acknowledgements
 </h2>
+
 - Matugen https://github.com/InioX/matugen
+
 - DankMaterialShell https://danklinux.com/
+
 - Vesktop Midnight Theme https://github.com/refact0r/midnight-discord
+
 - Obsidian Nu Ayu theme https://github.com/MrParalloid/nu-ayu
+
 - Sukkon webpage https://github.com/divyanshchandhok/sukoon
+
 - Matcha https://github.com/floatpane/matcha
