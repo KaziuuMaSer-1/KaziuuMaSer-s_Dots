@@ -78,6 +78,8 @@ Open matcha and navigate to Settings > Theme, select Matugen.
 - [ ] Chamges to fish prompt
 - [ ] Sum nice fastfetch 
 - [ ] First-install script (installing package managers, apps etc.)
+- [ ] Telegram matugen theme
+- [ ] Try to make faugus-launcher theme to work
 <h2>
      <sub>
           <img  src="https://github.com/InioX/matugen/assets/81521595/bafdef83-4122-4bfd-9a30-98a5e0d7e488"
