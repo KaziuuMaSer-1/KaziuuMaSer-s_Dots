@@ -1,4 +1,5 @@
-## Ts is Kaziumasos dotfiles
+# Ts is Kaziumasos dotfiles
+This is my dailydirver dots based on DankMaterialShell.
 ## Dank Material Shell
 1. Install dms with 
 ```
