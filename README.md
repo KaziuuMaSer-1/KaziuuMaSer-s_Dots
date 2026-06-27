@@ -70,3 +70,20 @@ brew tap floatpane/matcha
 brew install floatpane/matcha/matcha
 ```
 Open matcha and navigate to Settings > Theme, select Matugen.
+
+## TODO
+- [] 
+<h2>
+     <sub>
+          <img  src="https://github.com/InioX/matugen/assets/81521595/bafdef83-4122-4bfd-9a30-98a5e0d7e488"
+           height="25"
+           width="25">
+     </sub>
+     Acknowledgements
+</h2>
+- Matugen https://github.com/InioX/matugen
+- DankMaterialShell https://danklinux.com/
+- Vesktop Midnight Theme https://github.com/refact0r/midnight-discord
+- Obsidian Nu Ayu theme https://github.com/MrParalloid/nu-ayu
+- Sukkon webpage https://github.com/divyanshchandhok/sukoon
+- Matcha https://github.com/floatpane/matcha
