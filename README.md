@@ -5,8 +5,8 @@
 - [Millenium (steam)](#Millenium)
 - [Obsidian](#Obsidian)
 - [Floorp (with pywalfox)](#Floorp (with pywalfox))
-- [Custom web homepage](#Custom web homepage)
-- [Prism Launcher](#Prism Launcher)
+- [Custom web homepage](#Custom-web-homepage)
+- [Prism Launcher](#Prism-Launcher)
 - [Matcha (tui-email)](#Matcha)
 #### Zed
 Install zed by running this in terminal:
