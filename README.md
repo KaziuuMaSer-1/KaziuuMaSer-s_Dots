@@ -3,6 +3,7 @@ This is my dailydirver dots based on DankMaterialShell with instalation steps, p
 
 ## Showcase
 ![01](assets/01.png)
+![02](assets/02.png)
 ## Instalation methods
 You can either:
 
