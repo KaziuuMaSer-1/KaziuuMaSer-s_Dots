@@ -2,7 +2,7 @@
 This is my dailydirver dots based on DankMaterialShell with instalation steps, pack of wallpapers and custom matugen configs.
 
 ## Showcase
-[01](assets/01.png)
+![01](assets/01.png)
 ## Instalation methods
 You can either:
 
