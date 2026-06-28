@@ -100,3 +100,5 @@ Open matcha and navigate to Settings > Theme, select Matugen.
 - Sukkon webpage https://github.com/divyanshchandhok/sukoon
 
 - Matcha https://github.com/floatpane/matcha
+
+Email test
