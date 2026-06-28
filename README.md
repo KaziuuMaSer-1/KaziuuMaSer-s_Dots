@@ -1,5 +1,8 @@
 # Ts is Kaziumasos dotfiles
 This is my dailydirver dots based on DankMaterialShell with instalation steps, pack of wallpapers and custom matugen configs.
+
+## Showcase
+[](assets/01.png)
 ## Instalation methods
 You can either:
 
