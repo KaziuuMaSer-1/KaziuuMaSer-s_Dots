@@ -92,7 +92,7 @@ Osciloscope-tui: https://github.com/alemidev/scope-tui
 - [ ] Changes to webpage (eg. better window scaling)
 - [ ] Chamges to fish prompt
 - [ ] Sum nice fastfetch 
-- [ ] First-install script (installing package managers, apps etc.)
+- [x] First-install script (installing package managers, apps etc.)
 - [ ] Telegram matugen theme
 - [ ] Try to make faugus-launcher theme to work
 <h2>
