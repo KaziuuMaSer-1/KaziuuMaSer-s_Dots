@@ -1,5 +1,13 @@
 # Ts is Kaziumasos dotfiles
 This is my dailydirver dots based on DankMaterialShell with instalation steps, pack of wallpapers and custom matugen configs.
+## Instalation methods
+You can either:
+
+Use the postinstall script (100% jewcoded)
+Install everything manually as shown below
+
+
+
 ## Dank Material Shell
 1. Install dms with 
 ```
