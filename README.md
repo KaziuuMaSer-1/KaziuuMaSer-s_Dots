@@ -3,8 +3,8 @@ This is my dailydirver dots based on DankMaterialShell with instalation steps, p
 ## Instalation methods
 You can either:
 
-Use the postinstall script (100% jewcoded)
-Install everything manually as shown below
+1. Use the postinstall script (100% jewcoded)
+2. Install everything manually as shown below
 
 
 
