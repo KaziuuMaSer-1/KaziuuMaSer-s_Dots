@@ -81,9 +81,11 @@ brew install floatpane/matcha/matcha
 ```
 Open matcha and navigate to Settings > Theme, select Matugen.
 
-## Misc
+## Misc apps
 Banana Cursor: https://github.com/ful1e5/banana-cursor
+
 Mal-tui: https://github.com/swstl/mal-tui
+
 Osciloscope-tui: https://github.com/alemidev/scope-tui
 
 ## TODO
