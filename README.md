@@ -81,6 +81,11 @@ brew install floatpane/matcha/matcha
 ```
 Open matcha and navigate to Settings > Theme, select Matugen.
 
+## Misc
+Banana Cursor: https://github.com/ful1e5/banana-cursor
+Mal-tui: https://github.com/swstl/mal-tui
+Osciloscope-tui: https://github.com/alemidev/scope-tui
+
 ## TODO
 - [ ] Changes to webpage (eg. better window scaling)
 - [ ] Chamges to fish prompt
@@ -108,3 +113,5 @@ Open matcha and navigate to Settings > Theme, select Matugen.
 - Sukkon webpage https://github.com/divyanshchandhok/sukoon
 
 - Matcha https://github.com/floatpane/matcha
+
+- IBM Plex font https://www.ibm.com/plex/
