@@ -122,3 +122,9 @@ window-rule {
     match app-id="^org.telegram.desktop$"
     default-column-width { fixed 500; }
 }
+
+// @id=wr_1782755834223982764 @name=steam
+window-rule {
+    match app-id="^steam$"
+    default-column-width { fixed 500; }
+}
