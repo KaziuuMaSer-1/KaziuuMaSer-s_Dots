@@ -61,11 +61,11 @@ curl -fsSL "https://steambrew.app/install.sh" | bash
 ```
 8:09 PM
 
-Install Material Theme via the built-in installer or the ShitHub repo (https://github.com/kuska1/Material-Theme).
+Install Material Theme via the built-in installer or thisrepo (https://github.com/kuska1/Material-Theme).
 
-Navigate to /home/oliwier/.local/share/Steam/millennium/themes/Material-Theme and copy matugentemplate.css to the matugen templates directory.
+Navigate to `/home/oliwier/.local/share/Steam/millennium/themes/Material-Theme` and copy `matugentemplate.css` to the matugen templates directory.
 
-You may also need to navigate to ~/.steam/steam/steamui/skins/Material-Theme/css/main/colors/matugen.css and paste the contents of matugentemplate.css into it.
+You may also need to navigate to` ~/.steam/steam/steamui/skins/Material-Theme/css/main/colors/matugen.css` and paste the contents of `matugentemplate.css` into it.
 
 #### Obsidian
 Install obsidian
