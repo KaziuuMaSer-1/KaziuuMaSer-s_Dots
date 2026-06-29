@@ -59,7 +59,6 @@ Install steam with package manager of your choice, then install millenium:
 ```
 curl -fsSL "https://steambrew.app/install.sh" | bash
 ```
-8:09 PM
 
 Install Material Theme via the built-in installer or thisrepo (https://github.com/kuska1/Material-Theme).
 
