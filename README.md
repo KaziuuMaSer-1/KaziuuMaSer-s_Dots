@@ -99,8 +99,10 @@ Mal-tui: https://github.com/swstl/mal-tui
 Osciloscope-tui: https://github.com/alemidev/scope-tui
 
 ## TODO
-- [ ] Changes to webpage (eg. better window scaling)
-- [ ] Chamges to fish prompt
+- [ ] Changes to webpage 
+  - Sites open on the same tab
+  - Better window scaling
+- [ ] Changes to fish prompt
 - [ ] Sum nice fastfetch 
 - [x] First-install script (installing package managers, apps etc.)
 - [ ] Telegram matugen theme
