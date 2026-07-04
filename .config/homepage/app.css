@@ -22,11 +22,11 @@
     --sfg: #d8dee9;
 
     /* Matugen Dynamic Colors */
-    --background: #19120d;
-    --foreground: #f0dfd7;
-    --primary: #ffb689;
-    --accent: #6e3810;
-    --cards: #19120d;
+        --background: #151218;
+        --foreground: #e7e0e8;
+        --primary: #d2bcfd;
+        --accent: #4f3d74;
+        --cards: #151218;
 
     /* Image background */
     --imgbg: url(assets/background.jpg); /* Image URL */
@@ -149,31 +149,15 @@ body {
 }
 
 /* Staggered card animation delays */
-.button__1 {
-    animation-delay: 0.12s;
-}
-.button__2 {
-    animation-delay: 0.18s;
-}
-.button__5 {
-    animation-delay: 0.24s;
-}
-.button__3 {
-    animation-delay: 0.3s;
-}
-.button__4 {
-    animation-delay: 0.36s;
-}
-.button__6 {
-    animation-delay: 0.42s;
-}
+.button__1 { animation-delay: 0.12s; }
+.button__2 { animation-delay: 0.18s; }
+.button__5 { animation-delay: 0.24s; }
+.button__3 { animation-delay: 0.3s; }
+.button__4 { animation-delay: 0.36s; }
+.button__6 { animation-delay: 0.42s; }
 
-.list__1 {
-    animation-delay: 0.15s;
-}
-.list__2 {
-    animation-delay: 0.27s;
-}
+.list__1 { animation-delay: 0.15s; }
+.list__2 { animation-delay: 0.27s; }
 
 @keyframes cardEntry {
     from {
@@ -308,13 +292,8 @@ body {
 }
 
 @keyframes typewriter-blink {
-    from,
-    to {
-        background-color: transparent;
-    }
-    50% {
-        background-color: var(--fg);
-    }
+    from, to { background-color: transparent; }
+    50% { background-color: var(--fg); }
 }
 
 .weatherValue p {
@@ -399,30 +378,12 @@ body {
     color: var(--fg);
 }
 
-.button__1 {
-    grid-row: 1;
-    grid-column: 1;
-}
-.button__2 {
-    grid-row: 1;
-    grid-column: 2;
-}
-.button__3 {
-    grid-row: 2;
-    grid-column: 1;
-}
-.button__4 {
-    grid-row: 2;
-    grid-column: 2;
-}
-.button__5 {
-    grid-row: 1;
-    grid-column: 3;
-}
-.button__6 {
-    grid-row: 2;
-    grid-column: 3;
-}
+.button__1 { grid-row: 1; grid-column: 1; }
+.button__2 { grid-row: 1; grid-column: 2; }
+.button__3 { grid-row: 2; grid-column: 1; }
+.button__4 { grid-row: 2; grid-column: 2; }
+.button__5 { grid-row: 1; grid-column: 3; }
+.button__6 { grid-row: 2; grid-column: 3; }
 
 .button:hover {
     background-color: var(--accent);
@@ -448,14 +409,8 @@ body {
     flex-direction: column;
 }
 
-.list__1 {
-    grid-column: 1;
-    grid-row: 1 / span 2;
-}
-.list__2 {
-    grid-column: 2;
-    grid-row: 1 / span 2;
-}
+.list__1 { grid-column: 1; grid-row: 1 / span 2; }
+.list__2 { grid-column: 2; grid-row: 1 / span 2; }
 
 .listIcon {
     margin-bottom: 2vh;
@@ -544,29 +499,13 @@ body {
         padding: 0;
     }
 
-    .button__1 {
-        grid-row: 1;
-        grid-column: 1;
-    }
-    .button__2 {
-        grid-row: 1;
-        grid-column: 2;
-    }
-    .button__3 {
-        grid-row: 2;
-        grid-column: 1;
-    }
-    .button__4 {
-        grid-row: 2;
-        grid-column: 2;
-    }
+    .button__1 { grid-row: 1; grid-column: 1; }
+    .button__2 { grid-row: 1; grid-column: 2; }
+    .button__3 { grid-row: 2; grid-column: 1; }
+    .button__4 { grid-row: 2; grid-column: 2; }
 
-    .button__5 {
-        display: none;
-    }
-    .button__6 {
-        display: none;
-    }
+    .button__5 { display: none; }
+    .button__6 { display: none; }
 
     .button {
         padding: 0;
