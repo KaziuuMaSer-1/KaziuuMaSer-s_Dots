@@ -141,11 +141,13 @@ body {
     animation: cardEntry 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
 
-.timeBlock,
-.weatherBlock {
-    opacity: 0;
-    animation: cardEntry 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
-    animation-delay: 0.05s;
+.timeBlock {
+    grid-row: 1 / span 2;
+    grid-column: 1 / span 4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 /* Staggered card animation delays */
@@ -460,55 +462,52 @@ body {
 /* M E D I A - Q U E R I E S */
 
 @media only screen and (max-width: 85em) {
-    .container {
-        width: 95vw;
-        height: auto;
-        min-height: 85vh;
-        grid-template-columns: repeat(4, 1fr);
-        grid-template-rows: auto;
-    }
+  .container {
+    width: 95vw;
+    height: auto;
+    min-height: 85vh;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+  }
 
-    .timeBlock {
-        grid-row: 1;
-        grid-column: 1 / span 2;
-    }
+  .timeBlock {
+    grid-row: 1;
+    grid-column: 1 / span 4;
+  }
 
-    .weatherBlock {
-        display: flex;
-        grid-row: 1;
-        grid-column: 3 / span 2;
-    }
+  .weatherBlock {
+    display: none;
+  }
 
-    #greetings {
-        font-size: var(--fg-secondary);
-    }
+  #greetings {
+    font-size: var(--fg-secondary);
+  }
 
-    .linksBlockRight {
-        display: none;
-    }
+  .linksBlockRight {
+    display: none;
+  }
 
-    .linksBlockLeft {
-        grid-column: 1 / span 4;
-        width: 100%;
-    }
+  .linksBlockLeft {
+    grid-column: 1 / span 4;
+    width: 100%;
+  }
 
-    .buttonsContainer {
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: repeat(2, 1fr);
-        grid-gap: 20px;
-        padding: 0;
-    }
+  .buttonsContainer {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-gap: 20px;
+    padding: 0;
+  }
 
-    .button__1 { grid-row: 1; grid-column: 1; }
-    .button__2 { grid-row: 1; grid-column: 2; }
-    .button__3 { grid-row: 2; grid-column: 1; }
-    .button__4 { grid-row: 2; grid-column: 2; }
+  .button__1 { grid-row: 1; grid-column: 1; }
+  .button__2 { grid-row: 1; grid-column: 2; }
+  .button__3 { grid-row: 2; grid-column: 1; }
+  .button__4 { grid-row: 2; grid-column: 2; }
+  .button__5 { display: none; }
+  .button__6 { display: none; }
 
-    .button__5 { display: none; }
-    .button__6 { display: none; }
-
-    .button {
-        padding: 0;
-        width: 100%;
-    }
+  .button {
+    padding: 0;
+    width: 100%;
+  }
 }
