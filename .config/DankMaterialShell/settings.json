@@ -304,8 +304,7 @@
   "fadeToDpmsGracePeriod": 5,
   "launchPrefix": "",
   "brightnessDevicePins": {
-    "eDP-1": "backlight:amdgpu_bl0",
-    "HDMI-A-1": "ddc:i2c-6"
+    "eDP-1": "backlight:amdgpu_bl0"
   },
   "wifiNetworkPins": {
     "preferredWifi": [

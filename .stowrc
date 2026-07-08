@@ -1,0 +1,4 @@
+--ignore=assets
+--ignore=postinstall\.sh
+--ignore=config_matugen\.toml
+--ignore=config_matugen\.toml

@@ -1,0 +1,48 @@
+# Główne ustawienia okna
+resolution_width = 185
+resolution_height = 41
+fps = 60
+
+# Styl wizualny
+pattern = "Plasma"
+color_mode = "Monochrome"
+palette = "Braille"
+
+# Transformacja wzoru i fizyka
+frequency = 20.8
+amplitude = 1.8
+speed = 1.47
+scale = 1.0
+octaves = 4
+
+# Obraz i filtry
+brightness = 3
+contrast = 5.0
+saturation = 1.0
+gamma = 1.0
+hue = 1.0
+
+# Zniekształcenia i efekty przejść
+noise_strength = 0.01132
+noise_scale = 0.005
+distort_amplitude = 0.6
+color_shift = 3.907919
+z_rate = 0.02
+vignette = 0.3
+vignette_softness = 0.5
+glyph_sharpness = 1.0
+
+# Reakcja na audio
+bass_influence = 1.0
+mid_influence = 0.8
+treble_influence = 0.2
+
+# Dynamiczne efekty uderzeń (Beat effects)
+beat_sensitivity = 2.5
+beat_distortion = 0.8
+beat_zoom = 1.2
+
+effect_type = 0
+effect_time = -100.0
+
+no_status = true

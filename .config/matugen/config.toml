@@ -29,9 +29,12 @@ input_path = '~/.config/matugen/templates/matcha.json'
 output_path = '~/.config/matcha/themes/matugen.json'
 
 # [templates.mpv]
-# input_path = "~/.config/matugen/templates/mpv.lua"
-# output_path = "/home/oliwier/.config/mpv/scripts/modern-extended.lua"
+# input_path = '~/.config/matugen/templates/mpv.lua'
+# output_path = '/home/oliwier/.config/mpv/scripts/modern-extended.lua'
 
+[templates.telegram]
+input_path = '~/.config/matugen/templates/telegram.tdesktop-theme'
+output_path = '~/.files/.config/telegram/.config.tdesktop-theme'
 
 # [templates.zzz]
 # input_path = "/home/oliwier/.config/matugen/templates/render.template.json"

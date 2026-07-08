@@ -22,11 +22,11 @@
     --sfg: #d8dee9;
 
     /* Matugen Dynamic Colors */
-        --background: #151218;
-        --foreground: #e7e0e8;
-        --primary: #d2bcfd;
-        --accent: #4f3d74;
-        --cards: #151218;
+        --background: #0e1415;
+        --foreground: #dee4e4;
+        --primary: #81d3dd;
+        --accent: #004f56;
+        --cards: #0e1415;
 
     /* Image background */
     --imgbg: url(assets/background.jpg); /* Image URL */
