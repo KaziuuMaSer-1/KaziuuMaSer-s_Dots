@@ -36,6 +36,9 @@ output_path = '~/.config/matcha/themes/matugen.json'
 input_path = '~/.config/matugen/templates/telegram.tdesktop-theme'
 output_path = '~/.files/.config/telegram/.config.tdesktop-theme'
 
+[templates.greet]
+input_path = '~/.config/matugen/templates/fish_greeting.fish'
+output_path = '~/.config/fish/functions/fish_greeting.fish'
 # [templates.zzz]
 # input_path = "/home/oliwier/.config/matugen/templates/render.template.json"
 # output_path = "/home/oliwier/Git/banana-cursor/render.json"
