@@ -6,3 +6,4 @@ abbr --add sine "PULSE_SOURCE=@DEFAULT_MONITOR@ scope-tui"
 abbr --add torlnk "npx torlnk"
 abbr --add chroma "chroma --config ~/.files/chroma.toml --no-status"
 
+alias gsr="flatpak run --command=gpu-screen-recorder com.dec05eba.gpu_screen_recorder"

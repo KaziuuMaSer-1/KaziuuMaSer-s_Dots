@@ -11,6 +11,7 @@ binds {
     Mod+Space hotkey-overlay-title="Application Launcher" { spawn "dms" "ipc" "call" "spotlight" "toggle"; }
     Mod+V hotkey-overlay-title="Clipboard Manager" { spawn "dms" "ipc" "call" "clipboard" "toggle"; }
     Mod+Y hotkey-overlay-title="Browse Wallpapers" { spawn "dms" "ipc" "call" "dankdash" "wallpaper"; }
+    Print { spawn "sh" "-c" "dms screenshot --no-file | wl-copy"; }
     Super+Alt+Ctrl+N hotkey-overlay-title="Notification Center" { spawn "dms" "ipc" "call" "notifications" "toggle"; }
     Super+C hotkey-overlay-title="Media: Next Track" { spawn "dms" "ipc" "call" "mpris" "next"; }
     Super+N hotkey-overlay-title="Notepad: Toggle" { spawn "dms" "ipc" "call" "notepad" "toggle"; }
@@ -63,6 +64,7 @@ binds {
     Mod+WheelScrollUp cooldown-ms=150 { focus-workspace-up; }
     Alt+Print { screenshot-window; }
     Alt+XF86Launch1 { screenshot-window; }
+    Alt+R hotkey-overlay-title="Toggle Recording" { spawn "sh" "-c" "/home/oliwier/Scripts/Recorder.sh"; }
     Mod+BracketLeft { consume-or-expel-window-left; }
     Mod+BracketRight { consume-or-expel-window-right; }
     Mod+Ctrl+C { center-visible-columns; }
@@ -126,8 +128,6 @@ binds {
     Mod+Shift+P { power-off-monitors; }
     Ctrl+Print { screenshot-screen; }
     Ctrl+XF86Launch1 { screenshot-screen; }
-    "Print" { spawn "sh" "-c" "dms screenshot --no-file | wl-copy"; }
-    //     Print { screenshot; }
     XF86Launch1 { screenshot; }
     Mod+Shift+E { quit; }
     Mod+T hotkey-overlay-title="Open Terminal" { spawn "kitty"; }
