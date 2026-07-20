@@ -99,7 +99,7 @@ Mal-tui: https://github.com/swstl/mal-tui
 Osciloscope-tui: https://github.com/alemidev/scope-tui
 
 ## TODO
-- [ ] Changes to webpage 
+- [x] Changes to webpage 
   - Sites open on the same tab
   - Better window scaling
 - [x] Changes to fish prompt
