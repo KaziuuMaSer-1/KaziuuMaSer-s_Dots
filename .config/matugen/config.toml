@@ -28,9 +28,9 @@ output_path = '/home/oliwier/.var/app/org.prismlauncher.PrismLauncher/data/Prism
 input_path = '~/.config/matugen/templates/matcha.json'
 output_path = '~/.config/matcha/themes/matugen.json'
 
-# [templates.mpv]
-# input_path = '~/.config/matugen/templates/mpv.lua'
-# output_path = '/home/oliwier/.config/mpv/scripts/modern-extended.lua'
+[templates.mpv]
+input_path = '~/.config/matugen/templates/mpv-material-osc.conf'
+output_path = '/home/oliwier/.config/mpv/script-opts/material-osc.conf'
 
 [templates.telegram]
 input_path = '~/.config/matugen/templates/telegram.tdesktop-theme'

@@ -7,3 +7,5 @@ abbr --add torlnk "npx torlnk"
 abbr --add chroma "chroma --config ~/.files/chroma.toml --no-status"
 
 alias gsr="flatpak run --command=gpu-screen-recorder com.dec05eba.gpu_screen_recorder"
+alias copy="wl-copy"
+alias paste="wl-paste"
