@@ -129,3 +129,5 @@ Osciloscope-tui: https://github.com/alemidev/scope-tui
 - Matcha https://github.com/floatpane/matcha
 
 - IBM Plex font https://www.ibm.com/plex/
+
+- Material-osc for mpv https://github.com/brahmkshatriya/material-osc
